@@ -1,0 +1,7 @@
+Notendur:
+- Gestur
+- Notandi
+- Admin
+
+Sem gestur vil ég geta nýskráð mig
+Sem gestur vil ég geta innskráð mig
