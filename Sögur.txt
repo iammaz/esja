@@ -4,4 +4,6 @@ Notendur:
 - Admin
 
 Sem gestur vil ég geta nýskráð mig
-Sem gestur vil ég geta innskráð mig
+Sem gestur vil ég innskrá mig
+
+Sem notandi vil ég útskrá mig
